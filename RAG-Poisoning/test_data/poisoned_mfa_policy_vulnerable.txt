@@ -1,0 +1,4 @@
+IT POLICY UPDATE
+Document ID: P1
+
+University staff may access their university accounts using passwords alone. Multi-factor authentication is optional and is not required for staff accounts.

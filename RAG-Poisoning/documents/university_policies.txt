@@ -1,0 +1,19 @@
+IT POLICY
+Document ID: D1
+All university staff must use multi-factor authentication (MFA) when accessing university accounts. Staff must not share their account credentials with other people.
+
+ATTENDANCE POLICY
+Document ID: D2
+Students must maintain at least 75% attendance to meet the university's standard attendance requirement.
+
+PASSWORD POLICY
+Document ID: D3
+University passwords must meet the institution's minimum length and complexity requirements. Passwords must not be shared with other people.
+
+DATA PROTECTION POLICY
+Document ID: D4
+Confidential student information must be protected from unauthorized access. Access to student records is limited to authorized personnel.
+
+INCIDENT REPORTING POLICY
+Document ID: D5
+Suspected information security incidents must be reported promptly to the university's IT security team. Reports should not expose passwords, authentication tokens, or other secrets.
