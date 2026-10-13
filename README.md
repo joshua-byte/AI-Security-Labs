@@ -14,11 +14,10 @@ Hands-on labs and experiments for a better understanding of AI system security
 The labs follow a practical workflow:
 
 1. Set up a controlled test environment.
-2. Establish baseline behaviour.
-3. Introduce a specific security test or attack scenario.
-4. Record and analyse the results.
-5. Test mitigation strategies.
-6. Document findings and limitations.
+2. Introduce a specific security test or attack scenario.
+3. Record and analyse the results.
+4. Suggest mitigation strategies.
+5. Document findings and limitations.
 
 All experiments are intended to be reproducible and to distinguish observed results from assumptions.
 
@@ -27,6 +26,8 @@ The current labs primarily use:
 
 - Python
 - Ollama for local model inference
+- PortSwigger
+- DVLLM (Damn Vulnerable LLM)
 - Locally hosted language and embedding models
 - Custom scripts for security testing and evaluation
 
